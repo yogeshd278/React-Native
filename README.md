@@ -1,12 +1,12 @@
 # Gatsby Starter ReverMonk
 
-A starter template to build lightning fast websites with [revermonk](https://revermonk.in) & [Gatsby](https://revermonk.in)
+<!-- A starter template to build lightning fast websites with [revermonk](https://revermonk.in) & [Gatsby](https://revermonk.in)-->
 
-**Demo:** https://revermonk.in
+**Try it:** https://revermonk.in
 
 &nbsp;
 
-![gatsby-starter-ghost](https://user-images.githubusercontent.com/120485/50913567-8ab8e380-142c-11e9-9e78-de02ded12fc6.jpg)
+<!-- ![gatsby-starter-ghost](https://user-images.githubusercontent.com/120485/50913567-8ab8e380-142c-11e9-9e78-de02ded12fc6.jpg) -->
 
 &nbsp;
 
